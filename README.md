@@ -39,3 +39,6 @@ Following are the training parameters and results.
 ![PR_curve (4)](https://github.com/chetan0220/Brain-Tumor-Detection-using-YOLOv8/assets/97821311/5ce1e550-a557-44dd-b8fb-88ed7bc1984f)<br>
 
 ![image](https://github.com/chetan0220/Brain-Tumor-Detection-using-YOLOv8/assets/97821311/aa5856e0-2633-42e4-a04e-78aa806f4312)<br>
+
+---
+If you have any query, feedback or suggestion feel free to drop a mail at chetan.mahale0220@gmail.com :) 
