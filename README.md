@@ -1,5 +1,10 @@
 # Brain Tumor Detection using YOLOv8
-In this project we have used different sizes of the YOLOv8 model to detect ansd classsify brain tumor in the MRI images
+In this project we have used different sizes of the YOLOv8 model to detect ansd classsify brain tumor in the MRI images<br>
+---
+
+**Check out paper publication [here](https://ieeexplore.ieee.org/abstract/document/10626992)**
+
+---
 ## Dataset 
 [Link To Dataset](https://www.kaggle.com/datasets/ammarahmed310/labeled-mri-brain-tumor-dataset)<br>
 Dataset was obtained from Kaggle. It contains 2176 samples of various clinical circumstances. There 455 samples of "glioma", 551 samples of "meningiomas", 620 samples of "pituitary" and 550 samples of "No Tumor". 
