@@ -1,0 +1,9 @@
+path: /content/drive/MyDrive/brain_tumor_object_detection/data/Brain Tumor labeled dataset
+train: /content/drive/MyDrive/brain_tumor_object_detection/data/Brain Tumor labeled dataset/train
+val: /content/drive/MyDrive/brain_tumor_object_detection/data/Brain Tumor labeled dataset/test
+
+names:
+    0: glioma
+    1: meningioma
+    2: notumor
+    3: pituitary
